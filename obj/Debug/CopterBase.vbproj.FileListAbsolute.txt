@@ -1,0 +1,15 @@
+C:\copterbase\git\copterbase\obj\Debug\CopterBase.vbprojAssemblyReference.cache
+C:\copterbase\git\copterbase\obj\Debug\CopterBase.Form1.resources
+C:\copterbase\git\copterbase\obj\Debug\CopterBase.vbproj.GenerateResource.cache
+C:\copterbase\git\copterbase\bin\Debug\CopterBase.exe.config
+C:\copterbase\git\copterbase\bin\Debug\CopterBase.exe.manifest
+C:\copterbase\git\copterbase\bin\Debug\CopterBase.application
+C:\copterbase\git\copterbase\bin\Debug\CopterBase.exe
+C:\copterbase\git\copterbase\bin\Debug\CopterBase.pdb
+C:\copterbase\git\copterbase\bin\Debug\CopterBase.xml
+C:\copterbase\git\copterbase\obj\Debug\CopterBase.Resources.resources
+C:\copterbase\git\copterbase\obj\Debug\CopterBase.exe.manifest
+C:\copterbase\git\copterbase\obj\Debug\CopterBase.application
+C:\copterbase\git\copterbase\obj\Debug\CopterBase.exe
+C:\copterbase\git\copterbase\obj\Debug\CopterBase.xml
+C:\copterbase\git\copterbase\obj\Debug\CopterBase.pdb

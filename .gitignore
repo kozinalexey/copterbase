@@ -1,0 +1,7 @@
+
+.vs/CopterBase/v16/*.*
+*.lock
+.vs/CopterBase/v16/Server/sqlite3/storage.ide
+.vs/CopterBase/v16/Server/sqlite3/storage.ide-shm
+.vs/CopterBase/v16/Server/sqlite3/storage.ide-wal
+bin/Debug/app.publish/CopterBase.exe
